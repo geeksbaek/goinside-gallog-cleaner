@@ -1,5 +1,5 @@
 # goinside-gallog-cleaner
-goinside-gallog-cleaner는 디시인사이드 갤로그 클리너입니다. 
+goinside-gallog-cleaner는 [goinside/gallog](https://github.com/geeksbaek/goinside/gallog) 기반으로 만든디시인사이드 갤로그 클리너입니다. 
 
 갤로그에서 글과 댓글 정보를 수집한 뒤, 실제로 존재하는 글과 댓글, 갤로그에 남아있는 기록을 모두 삭제합니다.
 
