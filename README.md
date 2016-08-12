@@ -5,10 +5,10 @@ goinside-gallog-cleaner는 [goinside](https://github.com/geeksbaek/goinside) 기
 
 ```
 // install
-go get -u github.com/geeksbaek/goinside-gallog-cleaner
+$ go get -u github.com/geeksbaek/goinside-gallog-cleaner
 
 // usage
-goinside-gallog-cleaner.exe -id YOUR_ID -pw YOUR_PASSWORD
+$ goinside-gallog-cleaner.exe -id YOUR_ID -pw YOUR_PASSWORD
 ```
 
 `go get` 명령어로 직접 패키지를 인스톨해서 빌드하는 대신,  [여기](https://github.com/geeksbaek/goinside-gallog-cleaner/releases)에서 실행 파일을 직접 다운로드 할 수 있습니다.
