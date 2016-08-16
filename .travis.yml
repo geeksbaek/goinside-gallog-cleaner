@@ -6,9 +6,8 @@ os:
 go:
   - 1.5
   - 1.6
+  - 1.7
   - tip
-  - 1.7rc5
-  - 1.7rc6
 script:
  - go test -v ./...
  
