@@ -9,7 +9,7 @@ goinside-gallog-cleaner는 [goinside](https://github.com/geeksbaek/goinside) 기
 ```
 $ go get -u github.com/geeksbaek/goinside-gallog-cleaner
 ```
-`go get` 명령어로 직접 패키지를 인스톨해서 빌드하는 대신,  [여기](https://github.com/geeksbaek/goinside-gallog-cleaner/releases)에서 실행 파일을 직접 다운로드 할 수 있습니다.
+`go get` 명령어로 직접 패키지를 인스톨해서 빌드하는 대신,  [여기](https://github.com/geeksbaek/goinside-gallog-cleaner/releases)에서 실행 파일을 직접 다운로드 할 수 있습니다. 직접 다운로드하는 경우 [설명서](http://imgur.com/a/Ei1ok)를 참고하세요.
 
 ## Usage
 ```
