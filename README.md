@@ -34,7 +34,7 @@ $ goinside-gallog-cleaner.exe -id YOUR_ID -pw YOUR_PASSWORD
 A. 이 프로그램은 명령행 프로그램입니다. 더블 클릭으로 실행하는 것이 아니라 명령행에서 실행해야 합니다. 자세한 설명은 [설명서](http://imgur.com/a/Ei1ok)를 참고하세요.
 
 ####Q. 작동하나요?
-A. 8월 28일 현재 작동합니다. 작동하지 않는 경우 [연락처](https://github.com/geeksbaek/goinside-gallog-cleaner#contact)를 통해 문의해주세요.
+A. 8월 28일 현재 작동합니다. 작동하지 않는 경우 [연락처](#contact)를 통해 문의해주세요.
 
 ####Q. 갤로그 로그만 지워지나요? 실제 게시물만 지워지나요?
 A. 갤로그 로그와 실제 게시물이 모두 지워집니다. 다만 갤로그 로그를 기반으로 삭제하기 때문에 수동으로 로그를 삭제한 게시물의 경우 삭제되지 않습니다.
