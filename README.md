@@ -9,7 +9,7 @@ goinside-gallog-cleaner는 [goinside](https://github.com/geeksbaek/goinside) 기
 ```
 $ go get -u github.com/geeksbaek/goinside-gallog-cleaner
 ```
-`go get` 명령어로 직접 패키지를 인스톨해서 빌드하는 대신,  [여기](https://github.com/geeksbaek/goinside-gallog-cleaner/releases)에서 실행 파일을 직접 다운로드 할 수 있습니다. 직접 다운로드하는 경우 [설명서](http://imgur.com/a/Ei1ok)를 참고하세요.
+`go get` 명령어로 직접 패키지를 인스톨해서 빌드하는 대신,  [여기](https://github.com/geeksbaek/goinside-gallog-cleaner/releases/latest)에서 실행 파일을 직접 다운로드 할 수 있습니다. 직접 다운로드하는 경우 [설명서](http://imgur.com/a/Ei1ok)를 참고하세요.
 
 ## Usage
 ```
@@ -52,7 +52,7 @@ A. 테스트하는 시점에서는 약 2000개의 게시물을 삭제하는데 �
 A. 아닙니다. 이 프로그램은 누구나 코드를 들여다 볼 수 있는 오픈소스 프로그램입니다. 직접 코드를 보시면 확인할 수 있습니다. 
 
 ####Q. 제 컴퓨터에서도 프로그램이 실행될까요?
-A. 실행됩니다. 이 프로그램은 윈도우, 리눅스, 맥OS를 포함한 대부분의 OS를 지원합니다. [여기](https://github.com/geeksbaek/goinside-gallog-cleaner/releases)에 미리 컴파일된 실행 파일들이 업로드되어 있습니다.
+A. 실행됩니다. 이 프로그램은 윈도우, 리눅스, 맥OS를 포함한 대부분의 OS를 지원합니다. [여기](https://github.com/geeksbaek/goinside-gallog-cleaner/releases/latest)에 미리 컴파일된 실행 파일들이 업로드되어 있습니다.
 
 ## Contact
 기타 질문이나 버그 신고는 Issues에 글을 남기시거나 [카카오톡](https://open.kakao.com/o/s3tYb7m)을 통해 하실 수 있습니다.
