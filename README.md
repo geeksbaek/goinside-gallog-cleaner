@@ -1,6 +1,5 @@
 # goinside-gallog-cleaner
 [![Build Status](https://travis-ci.org/geeksbaek/goinside-gallog-cleaner.svg?branch=master)](https://travis-ci.org/geeksbaek/goinside-gallog-cleaner)
-[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg?maxAge=2592000)](https://gitter.im/goinside-gallog-cleaner/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
 goinside-gallog-cleaner는 [goinside](https://github.com/geeksbaek/goinside) 기반으로 만든 디시인사이드 갤로그 클리너입니다. 
 
@@ -29,6 +28,8 @@ $ goinside-gallog-cleaner.exe -id YOUR_ID -pw YOUR_PASSWORD
 삭제가 끝났습니다.                                                                                      
 삭제하는 데 걸린 시간 : 35.4421305s 
 ```
+
+질문이나 버그 신고는 Issues에 글을 남기시거나 [카카오톡](https://open.kakao.com/o/s3tYb7m)을 통해 하실 수 있습니다.
 
 ## Update
 
