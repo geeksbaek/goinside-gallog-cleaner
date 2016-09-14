@@ -1,5 +1,8 @@
 # Change Log
 
+## [1.0.4](https://github.com/geeksbaek/goinside-gallog-cleaner/releases/tag/1.0.4)
+실패 로그를 더 자세하게 나타내도록 하였습니다.
+
 ## [1.0.3](https://github.com/geeksbaek/goinside-gallog-cleaner/releases/tag/1.0.3)
 작성한 게시물이 매우 많은 사용자의 글과 댓글을 불러오는 중에 발생하는 문제를 개선하였습니다.
 
