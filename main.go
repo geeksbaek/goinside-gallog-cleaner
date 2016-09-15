@@ -20,6 +20,7 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
+	defer s.Logout()
 	fmt.Println(s.Name, "님. 로그인에 성공하였습니다.")
 
 	fmt.Println("모든 글과 댓글을 불러오는 중입니다. 잠시만 기다려주세요.")
