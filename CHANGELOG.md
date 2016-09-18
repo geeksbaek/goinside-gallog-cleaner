@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.0.5](https://github.com/geeksbaek/goinside-gallog-cleaner/releases/tag/1.0.5)
+안정성을 향상시켰습니다.
+
+디시인사이드 서버가 같은 요청을 300회 이상 거부하면 프로그램을 종료하도록 하였습니다.
+
 ## [1.0.4](https://github.com/geeksbaek/goinside-gallog-cleaner/releases/tag/1.0.4)
 실패 로그를 더 자세하게 나타내도록 하였습니다.
 
