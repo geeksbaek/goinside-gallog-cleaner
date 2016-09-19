@@ -1,5 +1,15 @@
 # Change Log
 
+## [1.0.6](https://github.com/geeksbaek/goinside-gallog-cleaner/releases/tag/1.0.6)
+동시 삭제요청 횟수를 조절할 수 있도록 하였습니다. 이 값은 동시에 몇 번의 삭제 요청을 보낼 것인지 의미합니다. 현재까지 내부적으로 이 값을 100으로 두었으나, 상황에 따라 변경할 수 있도록 프로그램의 인자로 전달받게 하였습니다. 인자로 값을 전달하지 않을 경우 기본 값은 10 입니다.
+
+아래와 같이 -c 옵션으로 값을 전달할 수 있습니다.
+```
+$ goinside-gallog-cleaner -id ID -pw PW -c 100
+```
+
+디시인사이드 서버가 요청을 300회 이상 거부하더라도 프로그램이 종료되지 않도록 하였습니다. 다만, 이 경우에 해당 게시물이 정상적으로 삭제되지 않았을 수 있습니다.
+
 ## [1.0.5](https://github.com/geeksbaek/goinside-gallog-cleaner/releases/tag/1.0.5)
 안정성을 향상시켰습니다.
 
