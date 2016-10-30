@@ -1,5 +1,14 @@
 # Change Log
 
+## [1.1.0](https://github.com/geeksbaek/goinside-gallog-cleaner/releases/tag/1.1.0)
+FetchAll 함수도 진행 상황을 알 수 있도록 하였습니다.
+
+프로그레스바를 추가하였습니다.
+
+사용성 개선을 위해 아이디와 패스워드를 flag로 전달하는 대신 표준 입력으로 전달하도록 하였습니다.
+
+기본 동시 요청 횟수를 10에서 50으로 증가시켰습니다.
+
 ## [1.0.6](https://github.com/geeksbaek/goinside-gallog-cleaner/releases/tag/1.0.6)
 동시 삭제요청 횟수를 조절할 수 있도록 하였습니다. 이 값은 동시에 몇 번의 삭제 요청을 보낼 것인지 의미합니다. 현재까지 내부적으로 이 값을 100으로 두었으나, 상황에 따라 변경할 수 있도록 프로그램의 인자로 전달받게 하였습니다. 인자로 값을 전달하지 않을 경우 기본 값은 10 입니다.
 
