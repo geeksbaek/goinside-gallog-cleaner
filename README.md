@@ -7,6 +7,9 @@ goinside-gallog-cleaner는 [goinside](https://github.com/geeksbaek/goinside) 기
 
 ![](https://github.com/geeksbaek/goinside-gallog-cleaner/blob/master/guide.gif?raw=true)
 
+## Latest Update
+디시인사이드 삭제 방식 변경에 대응하여 갤로그 로그가 삭제되지 않은 문제를 해결하였습니다.
+
 ## Q&A
 #### Q. 어떻게 사용하나요?
 > 2016년 10월 30일 (1.1.0버전) 부터 사용성이 개선되었습니다. [여기](https://github.com/geeksbaek/goinside-gallog-cleaner/releases/latest)에서 다운로드받은 파일을 실행시키기만 하면 됩니다.
