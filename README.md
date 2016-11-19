@@ -8,7 +8,7 @@ goinside-gallog-cleaner는 [goinside](https://github.com/geeksbaek/goinside) 기
 ![](https://github.com/geeksbaek/goinside-gallog-cleaner/blob/master/guide.gif?raw=true)
 
 ## Latest Update
-디시인사이드 삭제 방식 변경에 대응하여 갤로그 로그가 삭제되지 않은 문제를 해결하였습니다.
+[2016-11-19 v1.1.1] 디시인사이드 삭제 방식 변경에 대응하여 갤로그 로그가 삭제되지 않은 문제를 해결하였습니다.
 
 ## Q&A
 #### Q. 어떻게 사용하나요?
