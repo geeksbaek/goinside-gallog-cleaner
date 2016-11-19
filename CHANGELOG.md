@@ -1,5 +1,8 @@
 # Change Log
 
+## [1.1.1](https://github.com/geeksbaek/goinside-gallog-cleaner/releases/tag/1.1.1)
+디시인사이드 삭제 변경에 대응하여 갤로그 로그가 삭제되지 않은 문제를 해결하였습니다.
+
 ## [1.1.0](https://github.com/geeksbaek/goinside-gallog-cleaner/releases/tag/1.1.0)
 FetchAll 함수도 진행 상황을 알 수 있도록 하였습니다.
 
