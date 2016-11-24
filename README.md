@@ -43,7 +43,7 @@ goinside-gallog-cleaner는 [goinside](https://github.com/geeksbaek/goinside) 기
 >
 > <sub>이 프로그램은 윈도우, 리눅스, OS X를 포함한 대부분의 OS를 지원합니다. [여기](https://github.com/geeksbaek/goinside-gallog-cleaner/releases/latest)에 미리 컴파일된 실행 파일들이 업로드되어 있습니다.</sub>
 
-### Q. 1.1.0 버전 이후로 비밀번호 입력이 안돼요.
+#### Q. 1.1.0 버전 이후로 비밀번호 입력이 안돼요.
 > 비밀번호가 보이지 않을 뿐, 입력이 되는 상태입니다.
 
 ## Contact
