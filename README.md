@@ -5,7 +5,7 @@ goinside-gallog-cleaner는 [goinside](https://github.com/geeksbaek/goinside) 기
 
 갤로그에서 글과 댓글 정보를 수집한 뒤 실제로 존재하는 글과 댓글, 갤로그에 남아있는 기록을 모두 삭제합니다.
 
-![](https://github.com/geeksbaek/goinside-gallog-cleaner/blob/master/guide.gif?raw=true)
+![](https://raw.githubusercontent.com/geeksbaek/goinside-gallog-cleaner/c6c1d7900070876d90bec04421560615520cc76b/guide.gif)
 
 ## Latest Update
 [2016-11-19 v1.1.1] 디시인사이드 삭제 방식 변경에 대응하여 갤로그 로그가 삭제되지 않은 문제를 해결하였습니다.
