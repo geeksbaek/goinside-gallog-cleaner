@@ -14,7 +14,7 @@ goinside-gallog-cleaner는 [goinside](https://github.com/geeksbaek/goinside) 기
 
 ## Q&A
 #### Q. 어떻게 사용하나요?
-> 2016년 10월 30일 (1.1.0 버전) 부터 사용성이 개선되었습니다. [**여기*](https://github.com/geeksbaek/goinside-gallog-cleaner/releases/latest)에서 다운로드받은 파일을 실행시키기만 하면 됩니다.
+> 2016년 10월 30일 (1.1.0 버전) 부터 사용성이 개선되었습니다. [**여기**](https://github.com/geeksbaek/goinside-gallog-cleaner/releases/latest)에서 다운로드받은 파일을 실행시키기만 하면 됩니다.
 
 #### Q. 작동하나요?
 > 11월 19일 현재 작동합니다. 이 프로그램은 지속적으로 관리되고 있는 프로젝트입니다. 작동하지 않는 경우 [**연락처**](#contact)를 통해 문의해주세요.
