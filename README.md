@@ -46,7 +46,7 @@ goinside-gallog-cleaner는 [goinside](https://github.com/geeksbaek/goinside) 기
 > <sub>이 프로그램은 윈도우, 리눅스, OSX를 포함한 대부분의 운영체제를 지원합니다. [**여기**](https://github.com/geeksbaek/goinside-gallog-cleaner/releases/latest)에 미리 컴파일된 실행 파일들이 업로드되어 있습니다.</sub>
 
 #### Q. 어떤 파일을 다운받아야하죠?
-> 자신의 운영체제에 맞는 파일을 하나만 다운받으시면 됩니다. 386은 32bit, amd64는 64비트 운영체제를 의미합니다.
+> 자신의 운영체제에 맞는 파일을 하나만 다운받으시면 됩니다. 386은 32-bit, amd64는 64-bit 운영체제를 의미합니다.
 >
 > <sub>OSX 사용자는 darwin 버전을 다운받으시면 됩니다.</sub>
 >
