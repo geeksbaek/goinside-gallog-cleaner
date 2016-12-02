@@ -6,6 +6,7 @@ import (
 	"fmt"
 	"os"
 	"strings"
+	"sync"
 	"syscall"
 	"time"
 
@@ -40,18 +41,21 @@ func main() {
 	fmt.Println("글과 댓글을 불러오는 중입니다. 잠시만 기다려주세요.")
 	start := time.Now()
 	fetchProgressCh := make(chan struct{})
+	wg := new(sync.WaitGroup)
+	wg.Add(1)
 	go func() {
 		i := 1
 		for _ = range fetchProgressCh {
 			fmt.Printf("\r%d번 째 갤로그 페이지 읽는 중...", i)
 			i++
 		}
+		wg.Done()
 	}()
 	data := s.FetchAll(*flagMaxCon, fetchProgressCh)
 
+	wg.Wait()
 	fmt.Print("\n\n")
-	fmt.Printf("글 %v개, 댓글 %v개 ", len(data.As), len(data.Cs))
-	fmt.Println("불러오기를 완료하였습니다.")
+	fmt.Printf("글 %v개, 댓글 %v개 불러오기를 완료하였습니다.\n", len(data.As), len(data.Cs))
 	fmt.Println("불러오는 데 걸린 시간 :", time.Since(start))
 
 	fmt.Print("\n")
