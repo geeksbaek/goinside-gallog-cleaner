@@ -59,6 +59,6 @@ goinside-gallog-cleaner는 [goinside](https://github.com/geeksbaek/goinside) 기
 > 비밀번호가 보이지 않을 뿐, 입력이 되는 상태입니다.
 
 ## Contact
-기타 질문이나 버그 신고는 Issues에 글을 남기시거나 [**카카오톡**](https://open.kakao.com/o/s3tYb7m)을 통해 하실 수 있습니다.
+기타 질문이나 버그 신고는 Issues에 글을 남기실 수 있습니다.
 
 Jongyeol Baek <geeksbaek@gmail.com>
