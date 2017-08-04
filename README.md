@@ -29,7 +29,7 @@ goinside-gallog-cleaner는 [goinside](https://github.com/geeksbaek/goinside) 기
 
 > 갤로그 로그와 실제 게시물이 모두 지워집니다.
 >
-> <sub>다만 갤로그 로그를 기반으로 삭제하기 때문에 수동으로 로그를 삭제한 게시물의 경우 삭제되지 않습니다.</sub>
+> <sub>다만 갤로그 로그를 기반으로 삭제하므로 수동으로 로그를 삭제한 게시물의 경우 삭제되지 않습니다.</sub>
 
 ### Q. 마이너 갤러리 게시물도 지워지나요?
 
@@ -39,21 +39,21 @@ goinside-gallog-cleaner는 [goinside](https://github.com/geeksbaek/goinside) 기
 
 ### Q. 갤로그를 공개로 전환해야 삭제되나요?
 
-> 공개든 비공개든 상관 없습니다.
+> 공개든 비공개든 상관없습니다.
 
 ### Q. 악성 코드가 숨겨져 있거나 제 정보를 수집하는 것은 아닌가요?
 
 > 아닙니다. 
 >
-> <sub>이 프로그램은 누구나 코드를 들여다 볼 수 있는 오픈소스 프로그램입니다. 직접 코드를 보시면 확인할 수 있습니다.</sub>
+> <sub>이 프로그램은 누구나 코드를 들여다볼 수 있는 오픈소스 프로그램입니다. 직접 코드를 보시면 확인할 수 있습니다.</sub>
 
 ### Q. 제 컴퓨터에서도 프로그램이 실행될까요?
 
 > 실행됩니다.
 >
-> <sub>이 프로그램은 윈도우, 리눅스, macOS를 포함한 대부분의 운영체제를 지원합니다. [**여기**](https://github.com/geeksbaek/goinside-gallog-cleaner/releases/latest)에 미리 컴파일된 실행 파일들이 업로드되어 있습니다.</sub>
+> <sub>이 프로그램은 윈도우, 리눅스, macOS를 포함한 대부분 운영체제를 지원합니다. [**여기**](https://github.com/geeksbaek/goinside-gallog-cleaner/releases/latest)에 미리 컴파일된 실행 파일들이 업로드되어 있습니다.</sub>
 
-### Q. 어떤 파일을 다운받아야하죠?
+### Q. 어떤 파일을 다운받아야 하죠?
 
 > 자신의 운영체제에 맞는 파일을 하나만 다운받으시면 됩니다. 386은 32-bit, amd64는 64-bit 운영체제를 의미합니다.
 >
@@ -61,9 +61,9 @@ goinside-gallog-cleaner는 [goinside](https://github.com/geeksbaek/goinside) 기
 >
 > <sub>간혹 다운로드 링크가 깨지는 경우, 링크에 포함된 mirror 주소에서 다운받으시기 바랍니다.</sub>
 
-### Q. 비밀번호 입력이 안돼요
+### Q. 비밀번호 입력이 안 돼요
 
-> 비밀번호가 타이핑되는 동안 보이지 않을 뿐, 입력이 되는 상태입니다.
+> 비밀번호가 타이핑되는 동안 보이지 않을 뿐, 입력되는 상태입니다.
 
 ### Q. Windows Defender SmartScreen에서 프로그램을 차단합니다
 
