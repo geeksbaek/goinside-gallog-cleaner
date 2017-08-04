@@ -1,4 +1,4 @@
-# goinside-gallog-cleaner v1.1.2
+# goinside-gallog-cleaner
 [![GitHub release](https://img.shields.io/github/release/geeksbaek/goinside-gallog-cleaner.svg)](https://github.com/geeksbaek/goinside-gallog-cleaner/releases/latest)
 [![Build Status](https://travis-ci.org/geeksbaek/goinside-gallog-cleaner.svg?branch=master)](https://travis-ci.org/geeksbaek/goinside-gallog-cleaner)
 [![Github All Releases](https://img.shields.io/github/downloads/geeksbaek/goinside-gallog-cleaner/total.svg)]()
