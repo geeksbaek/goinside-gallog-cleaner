@@ -65,6 +65,12 @@ goinside-gallog-cleaner는 [goinside](https://github.com/geeksbaek/goinside) 기
 
 > 비밀번호가 타이핑되는 동안 보이지 않을 뿐, 입력이 되는 상태입니다.
 
+### Q. Windows Defender SmartScreen에서 프로그램을 차단합니다
+
+[![](http://i.imgur.com/08TjfVx.png)]()
+
+> '추가 정보' 버튼을 눌러 실행시킬 수 있습니다.
+
 ## Contact
 
 기타 질문이나 버그 신고는 Issues에 글을 남기실 수 있습니다.
