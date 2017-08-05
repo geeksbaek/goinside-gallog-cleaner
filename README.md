@@ -1,8 +1,9 @@
 # goinside-gallog-cleaner
+
 [![GitHub release](https://img.shields.io/github/release/geeksbaek/goinside-gallog-cleaner.svg)](https://github.com/geeksbaek/goinside-gallog-cleaner/releases/latest)
 [![Build Status](https://travis-ci.org/geeksbaek/goinside-gallog-cleaner.svg?branch=master)](https://travis-ci.org/geeksbaek/goinside-gallog-cleaner)
-[![Github All Releases](https://img.shields.io/github/downloads/geeksbaek/goinside-gallog-cleaner/total.svg)]()
-[![Github Releases](https://img.shields.io/github/downloads/geeksbaek/goinside-gallog-cleaner/latest/total.svg)]()
+[![Github All Releases](https://img.shields.io/github/downloads/geeksbaek/goinside-gallog-cleaner/total.svg)](https://github.com/geeksbaek/goinside-gallog-cleaner/releases/latest)
+[![Github Releases](https://img.shields.io/github/downloads/geeksbaek/goinside-gallog-cleaner/latest/total.svg)](https://github.com/geeksbaek/goinside-gallog-cleaner/releases/latest)
 
 goinside-gallog-cleaner는 [goinside](https://github.com/geeksbaek/goinside) 기반으로 만든 디시인사이드 갤로그 클리너입니다.
 
@@ -18,59 +19,47 @@ goinside-gallog-cleaner는 [goinside](https://github.com/geeksbaek/goinside) 기
 
 ## Q&A
 
-### Q. 어떻게 사용하나요?
+Q. 어떻게 사용하나요?
 
-> [**여기**](https://github.com/geeksbaek/goinside-gallog-cleaner/releases/latest)에서 다운로드받은 파일을 실행시키면 됩니다.
+>[**여기**](https://github.com/geeksbaek/goinside-gallog-cleaner/releases/latest)에서 사용 환경에 맞는 실행 파일을 다운로드 받은 뒤 실행시키면 됩니다.
 
-### Q. 작동하나요?
+Q. 작동하나요?
 
-> **2017년 8월 5일** 현재 작동합니다. 이 프로그램은 지속적으로 관리되고 있는 프로젝트입니다. 작동하지 않는 경우 [**연락처**](#contact)를 통해 문의해주세요.
+>**2017년 8월 5일 현재 작동합니다.** 이 프로그램은 지속적으로 관리되고 있는 프로젝트입니다. 작동하지 않는 경우 [**연락처**](#contact)를 통해 문의해주세요.
 
-### Q. 갤로그 로그만 지워지나요? 실제 게시물만 지워지나요?
+Q. 갤로그 로그만 지워지나요? 실제 게시물만 지워지나요?
 
-> 갤로그 로그와 실제 게시물이 모두 지워집니다.
->
-> <sub>다만 갤로그 로그를 기반으로 삭제하므로 수동으로 로그를 삭제한 게시물의 경우 삭제되지 않습니다.</sub>
+>**갤로그 로그와 실제 게시물이 모두 지워집니다.** 다만 갤로그 로그를 기반으로 삭제하므로 수동으로 로그를 삭제한 게시물의 경우 삭제되지 않습니다.
 
-### Q. 마이너 갤러리 게시물도 지워지나요?
+Q. 마이너 갤러리 게시물도 지워지나요?
 
-> 지워지지 않습니다.
->
-> <sub>마이너 갤러리에 작성한 게시물은 현재 갤로그에 나타나지 않습니다. 갤로그 기반으로 삭제를 하기 때문에 마이너 갤러리에 작성한 게시물은 삭제되지 않습니다.</sub>
+>**지워지지 않습니다.** 마이너 갤러리에 작성한 게시물은 현재 갤로그에 나타나지 않습니다. 갤로그를 기반으로 삭제하기 때문에 마이너 갤러리에 작성한 게시물은 삭제되지 않습니다.
 
-### Q. 갤로그를 공개로 전환해야 삭제되나요?
+Q. 갤로그를 공개로 전환해야 삭제되나요?
 
-> 공개든 비공개든 상관없습니다.
+>**아닙니다.** 공개든 비공개든 상관없습니다.
 
-### Q. 악성 코드가 숨겨져 있거나 제 정보를 수집하는 것은 아닌가요?
+Q. 악성 코드가 숨겨져 있거나 제 정보를 수집하는 것은 아닌가요?
 
-> 아닙니다. 
->
-> <sub>이 프로그램은 누구나 코드를 들여다볼 수 있는 오픈소스 프로그램입니다. 직접 코드를 보시면 확인할 수 있습니다.</sub>
+>**아닙니다.** 어떠한 정보도 수집하지 않습니다. 누구나 코드를 들여다볼 수 있는 오픈소스 프로그램이므로, 직접 코드를 보시고 확인할 수 있습니다.
 
-### Q. 제 컴퓨터에서도 프로그램이 실행될까요?
+Q. 제 컴퓨터에서도 프로그램이 실행될까요?
 
-> 실행됩니다.
->
-> <sub>이 프로그램은 윈도우, 리눅스, macOS를 포함한 대부분 운영체제를 지원합니다. [**여기**](https://github.com/geeksbaek/goinside-gallog-cleaner/releases/latest)에 미리 컴파일된 실행 파일들이 업로드되어 있습니다.</sub>
+>**대부분 실행됩니다.** 이 프로그램은 윈도우, 리눅스, macOS를 포함한 대부분 운영체제를 지원합니다. [여기](https://github.com/geeksbaek/goinside-gallog-cleaner/releases/latest)에 미리 컴파일된 실행 파일들이 업로드되어 있습니다.
 
-### Q. 어떤 파일을 다운받아야 하죠?
+Q. 어떤 파일을 다운받아야 하죠?
 
-> 자신의 운영체제에 맞는 파일을 하나만 다운받으시면 됩니다. 386은 32-bit, amd64는 64-bit 운영체제를 의미합니다.
->
-> <sub>macOS 사용자는 darwin 버전을 다운받으시면 됩니다.</sub>
->
-> <sub>간혹 다운로드 링크가 깨지는 경우, 링크에 포함된 mirror 주소에서 다운받으시기 바랍니다.</sub>
+>자신의 운영체제에 맞는 파일을 하나만 다운받으시면 됩니다. 386은 32-bit, amd64는 64-bit 운영체제를 의미합니다. macOS 사용자는 darwin 버전을 다운받으시면 됩니다.
 
-### Q. 비밀번호 입력이 안 돼요
+Q. 비밀번호 입력이 안 돼요
 
-> 비밀번호가 타이핑되는 동안 보이지 않을 뿐, 입력되는 상태입니다.
+>비밀번호가 타이핑되는 동안 보이지 않을 뿐, 입력되는 상태입니다.
 
-### Q. Windows Defender SmartScreen에서 프로그램을 차단합니다
+Q. Windows Defender SmartScreen에서 프로그램을 차단합니다
 
-[![](http://i.imgur.com/08TjfVx.png)]()
+[![](http://i.imgur.com/08TjfVx.png)](http://i.imgur.com/08TjfVx.png)
 
-> '추가 정보' 버튼을 눌러 실행시킬 수 있습니다.
+>'추가 정보' 버튼을 눌러 실행시킬 수 있습니다.
 
 ## Contact
 
