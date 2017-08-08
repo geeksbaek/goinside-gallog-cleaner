@@ -4,7 +4,7 @@
 [![Build Status](https://travis-ci.org/geeksbaek/goinside-gallog-cleaner.svg?branch=master)](https://travis-ci.org/geeksbaek/goinside-gallog-cleaner)
 [![Github All Releases](https://img.shields.io/github/downloads/geeksbaek/goinside-gallog-cleaner/total.svg)](https://github.com/geeksbaek/goinside-gallog-cleaner/releases/latest)
 [![Github Releases](https://img.shields.io/github/downloads/geeksbaek/goinside-gallog-cleaner/latest/total.svg)](https://github.com/geeksbaek/goinside-gallog-cleaner/releases/latest)
-[![Donate](https://img.shields.io/badge/donate-paypal-blue.svg)](https://paypal.me/geeksbaek/5)
+[![Donate](https://img.shields.io/badge/donate-paypal-blue.svg)](https://paypal.me/geeksbaek)
 
 goinside-gallog-cleaner는 [goinside](https://github.com/geeksbaek/goinside) 기반으로 만든 디시인사이드 갤로그 클리너입니다.
 
