@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.1.3](https://github.com/geeksbaek/goinside-gallog-cleaner/releases/tag/1.1.3)
+
+삭제 도중 프로그램이 종료되는 문제를 개선하는 것을 시도했습니다.
+
 ## [1.1.2](https://github.com/geeksbaek/goinside-gallog-cleaner/releases/tag/1.1.2)
 
 app_id 문제를 임시로 해결하였습니다.
