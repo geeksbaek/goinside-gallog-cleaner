@@ -1,10 +1,10 @@
 # goinside-gallog-cleaner
 
-[![GitHub release](https://img.shields.io/github/release/geeksbaek/goinside-gallog-cleaner.svg)](https://github.com/geeksbaek/goinside-gallog-cleaner/blob/master/CHANGELOG.md)
+<!-- [![GitHub release](https://img.shields.io/github/release/geeksbaek/goinside-gallog-cleaner.svg)](https://github.com/geeksbaek/goinside-gallog-cleaner/blob/master/CHANGELOG.md)
 [![Donate](https://img.shields.io/badge/donate-paypal-blue.svg)](https://paypal.me/geeksbaek)
 [![Github All Releases](https://img.shields.io/github/downloads/geeksbaek/goinside-gallog-cleaner/total.svg)](https://github.com/geeksbaek/goinside-gallog-cleaner/releases/latest)
 [![Github Releases](https://img.shields.io/github/downloads/geeksbaek/goinside-gallog-cleaner/latest/total.svg)](https://github.com/geeksbaek/goinside-gallog-cleaner/releases/latest)
-[![KakaoTalk](https://img.shields.io/badge/chat-kakaotalk-FFEA21.svg)](https://open.kakao.com/o/s3tYb7m)
+[![KakaoTalk](https://img.shields.io/badge/chat-kakaotalk-FFEA21.svg)](https://open.kakao.com/o/s3tYb7m) -->
 
 
 goinside-gallog-cleaner는 [goinside](https://github.com/geeksbaek/goinside) 기반으로 만든 디시인사이드 갤로그 클리너입니다.
@@ -15,7 +15,9 @@ goinside-gallog-cleaner는 [goinside](https://github.com/geeksbaek/goinside) 기
 
 ## Notice
 
-현재 이 프로그램은 동작하지만, 장기적인 사용을 보장하기 어렵습니다.
+이 프로그램은 현재 동작하지 않습니다.
+
+<!-- 현재 이 프로그램은 동작하지만, 장기적인 사용을 보장하기 어렵습니다.
 
 상위 프로젝트인 goinside에 몇 가지 해결되지 못한 [이슈](https://github.com/geeksbaek/goinside/issues)가 있습니다. 이 프로그램을 위해 기여해주신다면 감사하겠습니다.
 
@@ -61,7 +63,7 @@ Q. Windows Defender SmartScreen에서 프로그램을 차단합니다
 
 [![](http://i.imgur.com/08TjfVx.png)](http://i.imgur.com/08TjfVx.png)
 
->'추가 정보' 버튼을 눌러 실행시킬 수 있습니다.
+>'추가 정보' 버튼을 눌러 실행시킬 수 있습니다. -->
 
 ## Contact
 
