@@ -4,7 +4,7 @@
 [![Donate](https://img.shields.io/badge/donate-paypal-blue.svg)](https://paypal.me/geeksbaek)
 [![Github All Releases](https://img.shields.io/github/downloads/geeksbaek/goinside-gallog-cleaner/total.svg)](https://github.com/geeksbaek/goinside-gallog-cleaner/releases/latest)
 [![Github Releases](https://img.shields.io/github/downloads/geeksbaek/goinside-gallog-cleaner/latest/total.svg)](https://github.com/geeksbaek/goinside-gallog-cleaner/releases/latest)
-[![KakaoTalk](https://img.shields.io/badge/chat-kakaotalk-FFEA21.svg)](https://open.kakao.com/o/s3tYb7m)
+[![KakaoTalk](https://img.shields.io/badge/chat-kakaotalk-FFEA21.svg)](https://open.kakao.com/o/sWexhkX)
 
 
 goinside-gallog-cleaner는 [goinside](https://github.com/geeksbaek/goinside) 기반으로 만든 디시인사이드 갤로그 클리너입니다.
@@ -67,6 +67,6 @@ Q. Windows Defender SmartScreen에서 프로그램을 차단합니다
 
 ## Contact
 
-기타 질문이나 버그 신고는 Issues에 글을 남기시거나 [카카오톡](https://open.kakao.com/o/s3tYb7m)으로 연락하실 수 있습니다.
+기타 질문이나 버그 신고는 Issues에 글을 남기시거나 [카카오톡](https://open.kakao.com/o/sWexhkX)으로 연락하실 수 있습니다.
 
 Jongyeol Baek <geeksbaek@gmail.com>
