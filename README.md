@@ -1,10 +1,10 @@
 # goinside-gallog-cleaner
 
-<!-- [![GitHub release](https://img.shields.io/github/release/geeksbaek/goinside-gallog-cleaner.svg)](https://github.com/geeksbaek/goinside-gallog-cleaner/blob/master/CHANGELOG.md)
+[![GitHub release](https://img.shields.io/github/release/geeksbaek/goinside-gallog-cleaner.svg)](https://github.com/geeksbaek/goinside-gallog-cleaner/blob/master/CHANGELOG.md)
 [![Donate](https://img.shields.io/badge/donate-paypal-blue.svg)](https://paypal.me/geeksbaek)
 [![Github All Releases](https://img.shields.io/github/downloads/geeksbaek/goinside-gallog-cleaner/total.svg)](https://github.com/geeksbaek/goinside-gallog-cleaner/releases/latest)
 [![Github Releases](https://img.shields.io/github/downloads/geeksbaek/goinside-gallog-cleaner/latest/total.svg)](https://github.com/geeksbaek/goinside-gallog-cleaner/releases/latest)
-[![KakaoTalk](https://img.shields.io/badge/chat-kakaotalk-FFEA21.svg)](https://open.kakao.com/o/s3tYb7m) -->
+[![KakaoTalk](https://img.shields.io/badge/chat-kakaotalk-FFEA21.svg)](https://open.kakao.com/o/s3tYb7m)
 
 
 goinside-gallog-cleaner는 [goinside](https://github.com/geeksbaek/goinside) 기반으로 만든 디시인사이드 갤로그 클리너입니다.
