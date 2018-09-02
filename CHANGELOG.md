@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.2.1](https://github.com/geeksbaek/goinside-gallog-cleaner/releases/tag/1.2.1)
+
+디버깅 로그가 출력되던 문제를 수정하였습니다.
+
 ## [1.2.0](https://github.com/geeksbaek/goinside-gallog-cleaner/releases/tag/1.2.0)
 
 app_id 문제를 해결하여 이제 프로그램이 정상적으로 동작합니다.
