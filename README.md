@@ -15,7 +15,9 @@ goinside-gallog-cleaner는 [goinside](https://github.com/geeksbaek/goinside) 기
 
 ## Notice
 
-<!-- 이 프로그램은 현재 동작하지 않습니다. -->
+이 프로그램은 현재 동작하지 않습니다.
+
+<!--
 
 현재 이 프로그램은 동작하지만, 장기적인 사용을 보장하기 어렵습니다.
 
@@ -64,6 +66,8 @@ Q. Windows Defender SmartScreen에서 프로그램을 차단합니다
 [![](http://i.imgur.com/08TjfVx.png)](http://i.imgur.com/08TjfVx.png)
 
 >'추가 정보' 버튼을 눌러 실행시킬 수 있습니다.
+
+-->
 
 ## Contact
 
